@@ -1,0 +1,1 @@
+document.write("Time Zone offset between GMT and IST is  ",new Date().getTimezoneOffset()*60,"Seconds");
